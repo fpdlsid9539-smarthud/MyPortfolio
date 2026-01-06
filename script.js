@@ -111,7 +111,7 @@ function sendMail(){
                 name : name,
                 to_name : to_name,
                 email : email,
-                massage : message
+                message : message
             }
 
             console.log(params);
